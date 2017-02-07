@@ -1,10 +1,21 @@
-Vandy_Computational_Workshop
+
+This repository can be found at: [http://vandyastroml.github.io/2017_Spring_Vandy_Computational_Workshop.html](http://vandyastroml.github.io/2017_Spring_Vandy_Computational_Workshop.html)
+
+
+Vandy Computational Workshop
 ==============================
 
 Repository for the Computational Workshop Series Fall 2016-Spring 2017 taught at Vanderbilt University
 
+You can run __all__ the notebooks interactively by clicking on the following link: 
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/vandyastroml/vanderbilt_computational_bootcamp)
+
+
 Project Organization
 ------------
+
+Repository template taken from "[Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)"
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
