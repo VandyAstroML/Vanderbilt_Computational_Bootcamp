@@ -54,19 +54,28 @@ Here you can find all the notebooks used for this class.
                 <td>4</td>
                 <td>Feb 13, 2017</td>
                 <td>
+                	<ul>
+                		<li>Functions</li>
+                		<li>Classes</li>
+                		<li>List Comprehensions</li>
+                		<li>Dictionaries</li>
+                	</ul>
                 </td>
             </tr>
             <tr>
                 <td>5</td>
                 <td>Feb 20, 2017</td>
                 <td>
+                	<ul>
+                		<li>Introductory Numpy</li>
+                		<li>Matplotlib</li>
+                	</ul>
                 </td>
             </tr>
             <tr>
                 <td>6</td>
                 <td>Feb 27, 2017</td>
-                <td>
-                </td>
+                <td><b>Open Hack Session</b></td>
             </tr>
             <tr>
                 <td>7</td>
@@ -77,27 +86,46 @@ Here you can find all the notebooks used for this class.
             <tr>
                 <td>8</td>
                 <td>Mar 13, 2017</td>
-                <td></td>
+                <td>
+                	<ul>
+                		<li>Pandas</li>
+                	</ul>
+                </td>
             </tr>
             <tr>
                 <td>9</td>
                 <td>Mar 20, 2017</td>
-                <td></td>
+                <td>
+                	<ul>
+                		<li>Numpy II</li>
+                		<li>Scipy</li>
+                	</ul>
+                </td>
             </tr>
             <tr>
                 <td>10</td>
                 <td>Mar 27, 2017</td>
-                <td></td>
+                <td>
+                	<ul>
+                		<li>Advanced Visualization</li>
+                		<li>Seaborn, Bokeh</li>
+                	</ul>
+                </td>
             </tr>
             <tr>
                 <td>11</td>
                 <td>Apr 3, 2017</td>
-                <td></td>
+                <td><b>Open Hack Session</b></td>
             </tr>
             <tr>
                 <td>12</td>
                 <td>Apr 10, 2017</td>
-                <td></td>
+                <td>
+                	<ul>
+                		<li>Pandas II</li>
+                	</ul>
+
+                </td>
             </tr>
             <tr>
                 <td>13</td>
