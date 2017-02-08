@@ -54,6 +54,7 @@ Here you can find all the notebooks used for this class.
                 <td>4</td>
                 <td>Feb 13, 2017</td>
                 <td>
+                <a href="https://github.com/VandyAstroML/Vanderbilt_Computational_Bootcamp/blob/master/notebooks/Week_04/04_Python_Structures.ipynb" target="_blank">iPython Notebook Week 4</a>
                 	<ul>
                 		<li>Functions</li>
                 		<li>Classes</li>
