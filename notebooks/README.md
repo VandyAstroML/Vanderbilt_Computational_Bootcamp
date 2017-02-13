@@ -67,6 +67,7 @@ Here you can find all the notebooks used for this class.
                 <td>5</td>
                 <td>Feb 20, 2017</td>
                 <td>
+                    <a href="https://github.com/VandyAstroML/Vanderbilt_Computational_Bootcamp/blob/master/notebooks/Week_05/05_Numpy_Matplotlib.ipynb" target="_blank">iPython Notebook Week 5</a>
                 	<ul>
                 		<li>Introductory Numpy</li>
                 		<li>Matplotlib</li>
