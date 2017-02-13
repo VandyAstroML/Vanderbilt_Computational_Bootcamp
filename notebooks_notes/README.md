@@ -31,7 +31,7 @@ Example
 ----
 ### Getting the help menu of the executable
 
-```
+```bash
 :$ ./nb_copy.sh -h
 
 How to run:    ./nb_copy.sh week_num overwrite_opt
