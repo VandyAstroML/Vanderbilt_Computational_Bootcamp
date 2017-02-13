@@ -7,7 +7,7 @@ followed by the week number to access the live version of the
 notebook of that week.
 
 ```bash
-./np_copy.sh week_number
+./nb_copy.sh week_number
 ```
 
 __Note__: The `__week_number__' must be followed by a `0' if  the week number is __below 10__.
