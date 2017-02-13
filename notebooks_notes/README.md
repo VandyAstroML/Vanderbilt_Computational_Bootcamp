@@ -2,8 +2,9 @@
 
 This is folder, in which you can annotate the notebooks, run the code, etc.
 
-Simply run the file "__nb_copy.sh__" followed by the week number to access the live 
-version of the notebook of that week.
+Simply run the file "__nb_copy.sh__" in the main directory,
+followed by the week number to access the live version of the 
+notebook of that week.
 
 ```bash
 ./np_copy.sh week_number
