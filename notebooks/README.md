@@ -79,8 +79,10 @@ Here you can find all the notebooks used for this class.
                 <td>Feb 27, 2017</td>
                 <td>
                     <a href="https://github.com/VandyAstroML/Vanderbilt_Computational_Bootcamp/blob/master/notebooks/Week_06/06_Open_Hack_Session.ipynb" target="_blank">iPython Notebook Week 6</a>
-                    Make sure to fill out the Google Form <a href="https://goo.gl/WbC00d" target="_blank">https://goo.gl/WbC00d</a>
-                    <ul><li><b>Open Hack Session</b></li></ul>
+                    <ul>
+                        <li><b>Open Hack Session</b></li>
+                        <li>Make sure to fill out the Google Form <a href="https://goo.gl/WbC00d" target="_blank">https://goo.gl/WbC00d</a></li>
+                    </ul>
                 </td>
             </tr>
             <tr>
