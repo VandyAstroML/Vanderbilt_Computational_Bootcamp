@@ -23,7 +23,7 @@ if  [ "$1" == "-h" ] || \
     [ "$#" -eq "0"  ]; then
     echo "How to run:    ./nb_copy.sh week_num overwrite_opt"
     echo "  * week_num: number of the week of the iPython notebook to copy"
-    echo "  * ow_opt: if 'true', it will overwrite the notebooks in 'nb_copy_path'"
+    echo "  * ow_opt: if 'y', it will overwrite the notebooks in 'nb_copy_path'"
 else
     echo "git pull"
     git pull
