@@ -97,7 +97,7 @@ Here you can find all the notebooks used for this class.
                 <td>
                     <a href="https://github.com/VandyAstroML/Vanderbilt_Computational_Bootcamp/blob/master/notebooks/Week_08/08_Pandas.ipynb" target="_blank">iPython Notebook Week 8</a>
                 	<ul>
-                		<li>Pandas</li>
+                		<li>Introduction to Pandas</li>
                 	</ul>
                 </td>
             </tr>
