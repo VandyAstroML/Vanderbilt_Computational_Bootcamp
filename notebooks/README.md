@@ -117,6 +117,7 @@ Here you can find all the notebooks used for this class.
                 <td>10</td>
                 <td>Mar 27, 2017</td>
                 <td>
+                    <a href="https://github.com/VandyAstroML/Vanderbilt_Computational_Bootcamp/blob/master/notebooks/Week_10/10_Advanced_Visualization_Seaborn.ipynb" target="_blank">iPython Notebook Week 10</a>
                 	<ul>
                 		<li>Advanced Visualization</li>
                 		<li>Seaborn, Bokeh</li>
