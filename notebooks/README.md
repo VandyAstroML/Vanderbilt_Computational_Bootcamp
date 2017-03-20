@@ -106,6 +106,7 @@ Here you can find all the notebooks used for this class.
                 <td>9</td>
                 <td>Mar 20, 2017</td>
                 <td>
+                    <a href="https://github.com/VandyAstroML/Vanderbilt_Computational_Bootcamp/blob/master/notebooks/Week_09/09_Numpy_II_Scipy.ipynb" target="_blank">iPython Notebook Week 9</a>
                 	<ul>
                 		<li>Numpy II</li>
                 		<li>Scipy</li>
