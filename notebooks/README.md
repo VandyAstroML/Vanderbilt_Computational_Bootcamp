@@ -136,7 +136,6 @@ Here you can find all the notebooks used for this class.
                 	<ul>
                 		<li>Pandas II</li>
                 	</ul>
-
                 </td>
             </tr>
             <tr>
