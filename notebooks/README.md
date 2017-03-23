@@ -127,7 +127,13 @@ Here you can find all the notebooks used for this class.
             <tr>
                 <td>11</td>
                 <td>Apr 3, 2017</td>
-                <td><b>Open Hack Session</b></td>
+                <td>
+                    <a href="https://github.com/VandyAstroML/Vanderbilt_Computational_Bootcamp/blob/master/notebooks/Week_11/11_Open_Hack_Session.ipynb" target="_blank">iPython Notebook Week 11</a>
+                    <ul>
+                        <li><b>Open Hack Session</b></li>
+                        <li>Make sure to fill out the Google Form <a href="https://goo.gl/hhTmha" target="_blank">https://goo.gl/hhTmha</a></li>
+                    </ul>
+                </td>
             </tr>
             <tr>
                 <td>12</td>
