@@ -139,6 +139,7 @@ Here you can find all the notebooks used for this class.
                 <td>12</td>
                 <td>Apr 10, 2017</td>
                 <td>
+                    <a href="https://github.com/VandyAstroML/Vanderbilt_Computational_Bootcamp/blob/master/notebooks/Week_12/12_Pandas_II_Advanced_Data_Handling.ipynb" target="_blank">iPython Notebook Week 12</a>
                 	<ul>
                 		<li>Pandas II</li>
                 	</ul>
