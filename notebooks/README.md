@@ -158,7 +158,12 @@ Here you can find all the notebooks used for this class.
             <tr>
                 <td>14</td>
                 <td>Apr 24, 2017</td>
-                <td></td>
+                <td>
+                  <a href="https://github.com/VandyAstroML/Vanderbilt_Computational_Bootcamp/blob/master/notebooks/Week_14/14_Astropy.ipynb" target="blank">iPython Notebook Week 14</a>
+                  <ul>
+                    <li>Astropy</li>
+                  </ul>
+                </td>
             </tr>
         </tbody>
         </table>
