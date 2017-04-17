@@ -148,7 +148,12 @@ Here you can find all the notebooks used for this class.
             <tr>
                 <td>13</td>
                 <td>Apr 17, 2017</td>
-                <td></td>
+                <td>
+                  <a href="https://github.com/VandyAstroML/Vanderbilt_Computational_Bootcamp/blob/master/notebooks/Week_13/13_Sys_and_Writing_Modules.ipynb" target="_blank">iPython Notebook Week 13</a>
+                  <ul>
+                    <li>Sys and Python Modules</li>
+                  </ul>
+                </td>
             </tr>
             <tr>
                 <td>14</td>
