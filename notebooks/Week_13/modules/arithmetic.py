@@ -9,7 +9,7 @@ __copyright__  =["Copyright 2017 YOUR NAME, Name of Project"]
 __email__      =['Email Address']
 __maintainer__ =['Your Name']
 
-__all__["add", "division", "multiply", "subtract"]
+__all__=["add", "division", "multiply", "subtract"]
 
 #----------------------------------------------------------------------
 def add(x, y):
