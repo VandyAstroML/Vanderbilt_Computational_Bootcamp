@@ -1,0 +1,8 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: x, unit: m, datatype: float32}
+# - {name: y, datatype: bool}
+x y
+1.0 False
+"" True
